@@ -35,12 +35,13 @@
 * 35 wizard-sample：基于路由实现向导页面
 * 36.1 layout1：常用布局的实现
 * 36.2 layout2: 常用布局的实现
-* 36.3 layout-resize：实现侧边栏可调整宽度
+* 36.3 layout-resize：实现侧边栏可调整宽度          **
 * 37.1 portal-example：使用 React Portals 实现的对话框
 * 37.2 antd-dialog：使用 antd 实现对话框
-* 40 dnd-sample：在 React 中实现拖放功能
+* 40 dnd-sample：在 React 中实现拖放功能            **
 * 43 reselect-sample：使用 reselect 避免重复计算
 * 44 suspense：React 的异步渲染
+* 45 findDomNode 和ref 的区别
 
 
 # License
