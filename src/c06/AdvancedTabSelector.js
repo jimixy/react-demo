@@ -18,7 +18,7 @@ export default class AdvancedTabSelector extends PureComponent {
 
   render() {
     const { options, value, onChange } = this.props;
-    console.log('props', this.props)
+    console.log('props', this.props.children)
     return (
       <div className="tab-selector">
         <ul>
